@@ -1,4 +1,4 @@
-### Hi there. This is Meet. Check out https://shahmeet.me/ :D 👋
+### Hi there. This is Meet. Check out https://shahmeet.me/ :D 
 
 <!--
 **meet1906/meet1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
